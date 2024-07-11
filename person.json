@@ -1,0 +1,32 @@
+{
+    "name" : "chandrakiran",
+    "Dob"  : "1986-11-14",
+    "address": {
+        "address-line1":"ramalayam",
+        "address-lne2":"main raod",
+        "City": "atchuthapuam"   
+    }
+
+}
+
+{
+    "name" : "chandrakiran",
+    "Dob"  : "1986-11-14",
+    "address": 
+    [
+        {
+        "address-line1":"ramalayam",
+        "address-lne2":"main raod",
+        "City": "atchuthapuam",   
+        "Type":"Home"
+    }
+
+       {
+        "address-line1":"ramalayam",
+        "address-lne2":"main raod",
+        "City": "atchuthapuam",
+        "type":"office"
+    }
+
+    ]
+}

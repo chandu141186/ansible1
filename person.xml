@@ -1,0 +1,30 @@
+<person>
+    <name>chandrakiran</name>
+    <dob>14-11-1986</dob>
+    <address>
+      <address-line1>3-14,ramalayam</address-line1>
+      <address-line2>mainraod</address-line2>
+      <street>ramalayam back</street>
+      <city>atchuthapuram</city>
+    </address>
+</person>
+
+
+<person>
+    <name>chandrakiran</name>
+    <dob>14-11-1986</dob>
+    <address>
+      <address-line1>3-14,ramalayam </address-line1>
+      <address-line2>mainraod</address-line2>
+      <street>ramalayam back</street>
+      <city>atchuthapuram</city>
+    </address>
+
+    <address2>
+      <address-line1>3-14,ramalayam</address-line1>
+      <address-line2>mainraod</address-line2>
+      <street>ramalayam back</street>
+      <city>atchuthapuram</city>
+    </address2>
+
+</person>
